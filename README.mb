@@ -6,26 +6,26 @@
 
 ## 渲染效果图
 * 三维模型
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/models.png)
+![img](https://github.com/Xian-He/RDOT/tree/mastere.g/models.png)
 
 * 运动曲线
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/curves.png)
+![img](https://github.com/Xian-He/RDOT/tree/mastere.g/curves.png)
 
 * 场景效果图
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/scenes.png)
+![img](https://github.com/Xian-He/RDOT/tree/mastere.g/scenes.png)
 
 * 不同的场景设置效果图
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/differentScenesSettings.png)
+![img](https://github.com/Xian-He/RDOT/tree/master/e.g/differentScenesSettings.png)
 
 ## 与其他数据集对比
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/otherBenchmark.png)
+![img](https://github.com/Xian-He/RDOT/tree/master/e.g/otherBenchmark.png)
 
 ## 评测结果
 我们利用两种不同的评估方法对目前主流的6中算法进行测评，测评结果如下图。
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/A_AED.png)
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/A_AD.png)
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/C_AED.png)
-![img](https://github.com/Xian-He/RDOT/raw/master/e.g/C_AD.png)
+![img](https://github.com/Xian-He/RDOT/tree/master/e.g/A_AED.png)
+![img](https://github.com/Xian-He/RDOT/tree/master/e.g/A_AD.png)
+![img](https://github.com/Xian-He/RDOT/tree/master/e.g/C_AED.png)
+![img](https://github.com/Xian-He/RDOT/tree/master/e.g/C_AD.png)
 
 ## 完整数据集下载
 链接：https://pan.baidu.com/s/1B8h4_Wlqt38ng7oYSvxtEQ 

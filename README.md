@@ -6,7 +6,7 @@
 
 ## 渲染效果图
 * 三维模型
-
+<img src="https://github.com/Xian-He/RDOT/tree/master/e.g/models.png" width=50% height=50%>
 ![img](https://github.com/Xian-He/RDOT/tree/master/e.g/models.png)
 
 * 运动曲线

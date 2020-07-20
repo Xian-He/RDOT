@@ -6,11 +6,11 @@
 
 ## 渲染效果图
 * 三维模型
-<img src="https://github.com/Xian-He/RDOT/raw/master/e.g/models.png" width=50% height=50%>
+<img src="https://github.com/Xian-He/RDOT/raw/master/e.g/models.png">
 
 * 运动曲线
 
-<img src="https://github.com/Xian-He/RDOT/raw/master/e.g/curves.png" width=50% height=50%>
+<img src="https://github.com/Xian-He/RDOT/raw/master/e.g/curves.png">
 
 * 场景效果图
 
